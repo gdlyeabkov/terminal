@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca92434c-da33-4201-8c58-cf33d39367a2": {
+      "ProjectGuid": "ca92434c-da33-4201-8c58-cf33d39367a2",
+      "DisplayName": "Terminal",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
